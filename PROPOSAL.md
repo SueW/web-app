@@ -30,7 +30,8 @@ Developing this app will help me achieve my learning goals as I use the necessar
 
 	yelp.ca touts itself as being “the fun and easy way to find and talk about great (and not so great) local businesses”. A search for “Chip Trucks” reveals a list of 17 results but only eight of those are chip wagons, the rest are a mishmash of restaurant listings. 
 	The review and ratings are helpful but the site is inconsistent – some of the chip wagons have photographs, others don’t. There is a free mobile app available.
-### Differences
+
+	### Differences
 	My app will be more focused: its sole purpose is to locate chip trucks in Ottawa. Users won’t have to wade through irrelevant listings to find what they want. The look and feel of my app will be more consistent and attractive.
 
 
