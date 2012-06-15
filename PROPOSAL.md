@@ -14,8 +14,10 @@ Ottawa Chip Truck Finder is a small, simple application that helps residents, or
 - To explore and apply mobile first techniques and responsive web design
 - Applying web design skills to make not only an attractive and professional looking site, but one that is also user-friendly
 Developing this app will help me achieve my learning goals as I use the necessary techniques and technologies to create the finished product – a live, functional application. 
+
 ## Future learning goals
 - To add a 'find by location' feature to the database
+
 ### Technologies & techniques
 
 - Mobile first and responsive web design.
