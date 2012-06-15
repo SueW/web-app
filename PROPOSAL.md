@@ -40,7 +40,7 @@ Developing this app will help me achieve my learning goals as I use the necessar
 	housenumbers.ca has a page devoted to a handful of chip trucks in Ottawa but, upon closer inspection, it appears to be a promotional website for a local photographer. 
 	Each of the eight chip trucks listed has a very large photograph. The only information about the truck’s location is written below the photo and poor programming has caused half of the text to be illegible. At the bottom of the page there is a cornucopia of links to random photographs – everything from antique shops and tall ships to the Ottawa Tulip Festival
 
-### Differences
+	### Differences
 
 	My chip truck locator will be more usable. Instead of having the option to link to multiple other pages it will be focused on giving users the information they came for: the location of chip trucks in Ottawa. 
 	My app will not hog precious download time by using giant photographs and the information will be clear and easy to read.
@@ -49,8 +49,8 @@ Developing this app will help me achieve my learning goals as I use the necessar
 	
 	Ottawa Foodies provides user-generated information about a vast array of eating establishments throughout the city. Searching for “chip trucks” brings you to a long list of vendors, not all of which are chip trucks (Booster Juice falls into this category, for instance). Clicking on a name in the list brings you to a full page of user comments and reviews about that establishment. 
 	Addresses are not always listed or easy to find. Although user reviews can be helpful, this site has a lot of long ones making it time consuming to read through.
-
-### Differences
+	
+	### Differences
 
 	My chip truck locator will be more focused and only show the location of chip wagons. It will also be very easy for users to find the addresses of each truck.
 
