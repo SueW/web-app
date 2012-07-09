@@ -15,9 +15,15 @@ $chiptruck = 'main-page';
 
 <body>
 
+<h1>Ottawa Chip Truck Finder</h1>
+
+<h2 div class="fryfinder">French Fry Finder for Folks on the Fly</h2>
+
+<h3 div class="location">Choose a location:</h3>
+
 <nav>
 	<ul>
-		<li<?php if ($chiptruck !='downtown' && $chiptruck != 'central' && $chiptruck != 'south' && $chiptruck != 'east' && $chiptruck != 'west') {?> class="current"<?php } ?>><a href="?chiptruck=main-page"></a></li>
+		<li<?php if ($chiptruck !='downtown' && $chiptruck != 'central' && $chiptruck != 'south' && $chiptruck != 'east' && $chiptruck != 'west' && $chiptruck != 'all') {?> class="current"<?php } ?>><a href="?chiptruck=main-page">Map</a></li>
 		<li<?php if ($chiptruck == 'downtown') { ?> class="current"<?php } ?>><a href="?chiptruck=downtown">Downtown</a></li>
 		<li<?php if ($chiptruck == 'central') { ?> class="current"<?php } ?>><a href="?chiptruck=central">Central</a></li>
 		<li<?php if ($chiptruck == 'south') { ?> class="current"<?php } ?>><a href="?chiptruck=south">South</a></li>
