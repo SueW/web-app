@@ -2,14 +2,19 @@
 /* CSS Document */
 
 html {
-	background-color:#CCC;
+	background-color:#EBB654;
 	font: normal 100%/1.5 sans-serif;
 }
 
 body {
 	margin: 0 auto;
 	padding-top: 1em;
-	width: 35em;
+	width: 55em;
+}
+
+h1, h2, h3{
+	color: #fff;
+	font:Verdana, Geneva, sans-serif;
 }
 
 nav ul {
@@ -25,10 +30,11 @@ nav a,
 nav a:link,
 nav a:visited{
 	display: inline-block;
-	background-color:#e2e2e2;
+	background-color:#EBB654;
 	padding: 0.5em 1em;
 	text-decoration: none;
 	color: #000;
+	margin-top: 5em;
 }
 
 nav a:hover{
@@ -41,7 +47,12 @@ nav .current a:visited {
 	background-color:#fff;
 }
 
+dl, dd {
+	color: #fff;
+	font: Verdana, Geneva, sans-serif;
+}
+
 article {
-	background-color: #fff;
+	background-color: #000;
 	padding: 1em;
 }
