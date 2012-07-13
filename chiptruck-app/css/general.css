@@ -9,12 +9,42 @@ html {
 body {
 	margin: 0 auto;
 	padding-top: 1em;
-	width: 55em;
+	width: 35em;
 }
 
-h1, h2, h3{
+h2, h3{
 	color: #fff;
-	font:Verdana, Geneva, sans-serif;
+	font:Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	color: #000;
+	font:Arial, Helvetica, sans-serif;
+}
+
+.logo {
+	position:absolute;
+	-moz-transform:scale(0.75);
+    -webkit-transform:scale(0.75);
+    transform:scale(0.75);
+	margin-left: 5.75em;
+	margin-top: -1em;
+
+}
+
+.ottawa, .finder {
+	position: absolute;
+	display:inline;
+}
+
+.ottawa {
+	margin-top: 5.5em;
+}
+
+.container {
+	background-color:#000;
+	margin-top:9.5em;
+	padding:2px;
 }
 
 nav ul {
