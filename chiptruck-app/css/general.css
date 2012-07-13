@@ -12,14 +12,21 @@ body {
 	width: 35em;
 }
 
-h2, h3{
-	color: #fff;
-	font:Arial, Helvetica, sans-serif;
-}
-
 h1 {
 	color: #000;
 	font:Arial, Helvetica, sans-serif;
+}
+
+.zone-header {
+	color: #000;
+	font:Arial, Helvetica, sans-serif;
+	text-align:center;
+	background-color:#EBB654;
+}
+
+h3 {
+	color:#EBB654;
+	font:Arial, Helvetica, sans-serif
 }
 
 .logo {
@@ -29,7 +36,6 @@ h1 {
     transform:scale(0.75);
 	margin-left: 5.75em;
 	margin-top: -1em;
-
 }
 
 .container {
@@ -58,13 +64,23 @@ h1 {
 	font:Arial, Helvetica, sans-serif;
 	text-align:center;
 }
+
+.content {
+	color:#EBB654;
+}
+
+.map {
+	margin-top: 1em;
+}
 	
 	
 
 nav ul {
-	margin-top: -3em;
+	margin-top: -4em;
 	margin-left: 0.5em;
+	margin-bottom: -1em;
 	padding: 0;
+	font:Arial, Helvetica, sans-serif;
 }
 
 nav li {
@@ -93,8 +109,8 @@ nav .current a:visited {
 }
 
 dl, dd {
-	color: #fff;
-	font: Verdana, Geneva, sans-serif;
+	color: #EBB654;
+	font: Arial, Helvetica, sans-serif;
 }
 
 article {

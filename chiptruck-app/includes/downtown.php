@@ -10,15 +10,17 @@ $sql = $db->query('
 $results = $sql->fetchAll();
 
 ?>
+<div class="content">
 
-<h1>Downtown Ottawa</h1>
+<div class="zone-header"><h2>Downtown Ottawa</h2></div>
 
 	<?php foreach ($results as $truckinfo) : ?>
 	<h3>
-		<?php echo $truckinfo['name']; ?>
+		<?php echo $truckinfo['name']; ?>:
 		</a>
 	</h3>
 	<dl>
 		<dd><?php echo $truckinfo['address']; ?></dd>
 	</dl>
 	<?php endforeach; ?>
+</div>

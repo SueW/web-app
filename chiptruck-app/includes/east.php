@@ -10,15 +10,16 @@ $sql = $db->query('
 $results = $sql->fetchAll();
 
 ?>
-
-<h1>East End</h1>
-
-	<?php foreach ($results as $truckinfo) : ?>
-	<h3>
-		<?php echo $truckinfo['name']; ?>
-		</a>
-	</h3>
-	<dl>
-		<dd><?php echo $truckinfo['address']; ?></dd>
-	</dl>
-	<?php endforeach; ?>
+<div class="content">
+	<div class="zone-header"><h2>East End</h2></div>
+	
+		<?php foreach ($results as $truckinfo) : ?>
+		<h3>
+			<?php echo $truckinfo['name']; ?>:
+			</a>
+		</h3>
+		<dl>
+			<dd><?php echo $truckinfo['address']; ?></dd>
+		</dl>
+		<?php endforeach; ?>
+</div>
