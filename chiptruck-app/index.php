@@ -15,8 +15,13 @@ $chiptruck = 'main-page';
 
 <body>
 
-<h1>Ottawa Chip Truck Finder</h1>
+<div class="ottawa"><h1><strong>Ottawa</strong></h1></div>
 
+<div class="logo"><img src="images/chiptruck.png" alt="Chip Truck"></div>
+
+<div class ="finder"><h1><strong>Finder</strong></h1></div>
+
+<div class="container">
 <h2 div class="fryfinder">French Fry Finder for Folks on the Fly</h2>
 
 <h3 div class="location">Choose a location:</h3>
@@ -70,7 +75,7 @@ $chiptruck = 'main-page';
 
 </article>
 
-
+</div>
 
 </body>
 </html>
