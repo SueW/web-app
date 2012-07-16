@@ -72,7 +72,15 @@ h3 {
 .map {
 	margin-top: 1em;
 }
-	
+
+.addButton {
+	color:#000;	
+	margin-top: 1.5em;
+	margin-left: 25em;
+	background-color:#EBB654;
+	padding:2px;
+	text-align:center;
+}
 	
 
 nav ul {
@@ -111,6 +119,11 @@ nav .current a:visited {
 dl, dd {
 	color: #EBB654;
 	font: Arial, Helvetica, sans-serif;
+}
+
+dd {
+	margin-top: -1.25em;	
+	margin-left: -1px;
 }
 
 article {
