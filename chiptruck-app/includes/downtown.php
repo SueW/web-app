@@ -15,10 +15,10 @@ $results = $sql->fetchAll();
 <div class="zone-header"><h2>Downtown Ottawa</h2></div>
 
 	<?php foreach ($results as $truckinfo) : ?>
-	<h3>
+	<h4>
 		<?php echo $truckinfo['name']; ?>:
 		</a>
-	</h3>
+	</h4>
 	<dl>
 		<dd><?php echo $truckinfo['address']; ?></dd>
 	</dl>

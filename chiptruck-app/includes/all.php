@@ -13,15 +13,16 @@ $results = $sql->fetchAll();
 ?>
 <div class="content">
 	<div class="zone-header"><h2>All Locations</h2></div>
-	
+	<dl>
 		<?php foreach ($results as $truckinfo) : ?>
-		<h3>
+		
+		<h4>
 			<?php echo $truckinfo['name']; ?>:
 			</a>
-		</h3>
-		<dl>
-			<dd><?php echo $truckinfo['address']; ?></dd>
-		</dl>
+		</h4>
+		
+		<dd><?php echo $truckinfo['address']; ?></dd>
+	</dl>
 		<?php endforeach; ?>
 		
 </div>
