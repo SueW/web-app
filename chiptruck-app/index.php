@@ -17,7 +17,7 @@ $chiptruck = 'main-page';
 		
 			<div class="ottawa"><h1><strong>Ottawa</strong></h1></div>
 			
-			<div class="logo"><img src="images/chiptruck.png" alt="Chip Truck"></div>
+			<div class="logo"><img src="images/chiptruckpic2.png" alt="Chip Truck"></div>
 		
 			<div class ="finder"><h1><strong>Finder</strong></h1></div>
 			
