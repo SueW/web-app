@@ -1,5 +1,16 @@
 <?php
 
+/**
+ * Small description of this file:
+ * Lists of chip trucks in the city of Ottawa
+ *
+ * @author Susan Woodford <susanwoodford17@gmail.com>
+ * @copyright 2012 Susan Woodford
+ * @license BSD-3-Clause <http://github.com/..../NEW-BSD-LICENSE.txt>
+ * @version 1.0.0
+ * @package Ottawa Chip Truck Finder
+ */
+
 $chiptruck = 'main-page';
 		if(isset($_GET['chiptruck'])) {
 			$chiptruck = strtolower ($_GET	['chiptruck']);
