@@ -1,5 +1,17 @@
 <?php
 
+/**
+ * Small description of this file:
+ * Opens a connection to the MySQL database
+ *
+ * @author Susan Woodford <susanwoodford17@gmail.com>
+ * @copyright 2012 Susan Woodford
+ * @license BSD-3-Clause <http://github.com/web-app/NEW-BSD-LICENSE.txt>
+ * @Ottawa Chip Truck Finder <http://github.com/web-app>
+ * @version 1.0.0
+ * @package Ottawa Chip Truck Finder
+ */
+
 //Opens a connection to the MySQL database
 // Shared between all the PHP files in our application
 

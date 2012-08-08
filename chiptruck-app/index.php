@@ -2,11 +2,12 @@
 
 /**
  * Small description of this file:
- * Lists of chip trucks in the city of Ottawa
+ * Map and list of zones within the city of Ottawa for finding chip truck locations 
  *
  * @author Susan Woodford <susanwoodford17@gmail.com>
  * @copyright 2012 Susan Woodford
- * @license BSD-3-Clause <http://github.com/..../NEW-BSD-LICENSE.txt>
+ * @license BSD-3-Clause <http://github.com/web-app/NEW-BSD-LICENSE.txt>
+ * @Ottawa Chip Truck Finder <http://github.com/web-app>
  * @version 1.0.0
  * @package Ottawa Chip Truck Finder
  */

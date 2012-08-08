@@ -1,5 +1,18 @@
 <?php
 
+/**
+ * Small description of this file:
+ * Adds a chip truck location 
+ *
+ * @author Susan Woodford <susanwoodford17@gmail.com>
+ * @copyright 2012 Susan Woodford
+ * @license BSD-3-Clause <http://github.com/web-app/NEW-BSD-LICENSE.txt>
+ * @Ottawa Chip Truck Finder <http://github.com/web-app>
+ * @version 1.0.0
+ * @package Ottawa Chip Truck Finder
+ */
+
+
 require_once "includes/db.php";
 
 $errors = array();
