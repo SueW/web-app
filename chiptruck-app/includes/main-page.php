@@ -1,7 +1,7 @@
 <!--
 /**
  * Small description of this file:
- * List of all the chip truck locations within the East zone of the City of Ottawa 
+ * Map of the City of Ottawa broken up into zones
  *
  * @author Susan Woodford <susanwoodford17@gmail.com>
  * @copyright 2012 Susan Woodford
