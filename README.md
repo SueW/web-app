@@ -13,6 +13,6 @@ Susan Woodford: susanwoodford17@gmail.com
 
 Installation Instructions
 =========================
-### 1. Clone the repository
-### 2. Install chiptruck.sql
-### 3. Set up and run it through localHost
+# 1. Clone the repository
+# 2. Install chiptruck.sql
+# 3. Set up and run it through localHost
